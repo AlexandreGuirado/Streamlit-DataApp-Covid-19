@@ -1,7 +1,7 @@
 # Streamlit-DataApp-Covid-19
 
 
-This is a covid 19 dataset project updated daily. Here I am using Streamlit to make a Data App on localhost.
+This is a covid 19 dataset project updated daily. In this case we are using Streamlit to make a Data App on localhost.
 
 To start the project, a good option is to use google colab, just click on the icon when opening.
 
