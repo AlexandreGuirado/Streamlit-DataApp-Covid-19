@@ -3,7 +3,7 @@
 
 This is a covid 19 dataset project updated daily. In this case we are using Streamlit to make a Data App on localhost.
 
-To start the project, a good option is to use google colab, just click on the icon when opening.
+To start the project, a good option is to use google colab, just click in the icon to open it.
 
 ![image](https://user-images.githubusercontent.com/43274864/117204115-43597c80-adc6-11eb-990f-f21718d7995a.png)
 
