@@ -11,5 +11,6 @@ Remember to follow the tokenization step by step, the ideal is to access https:/
 
 ![image](https://user-images.githubusercontent.com/43274864/117204275-7a2f9280-adc6-11eb-8ce8-093d7a095b53.png)
 
+This project was carried out during a course by Qoda. Website: https://lab.qoda.com.br/
 
 Thank you for using the project, I hope you like it ❤
