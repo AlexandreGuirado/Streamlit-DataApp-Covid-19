@@ -1,7 +1,7 @@
 # Streamlit-DataApp-Covid-19
 
 
-This is a covid 19 dataset project updated daily. In this case we are using Streamlit to make a Data App on localhost.
+An interactive web-based dashboard to track COVID-19 in real time. In this case we are using Streamlit to make a Data App on localhost.
 
 To start the project, a good option is to use google colab, just click in the icon to open it.
 
@@ -11,6 +11,16 @@ Remember to follow the tokenization step by step, the ideal is to access https:/
 
 ![image](https://user-images.githubusercontent.com/43274864/117204275-7a2f9280-adc6-11eb-8ce8-093d7a095b53.png)
 
-<!--This project was carried out during a course by Qoda. Website: https://lab.qoda.com.br/-->
+Visual Dashboard (desktop):
+https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+Visual Dashboard (mobile):
+https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
+
+This dataset can only be performed thanks to Lancet Article and couse of Qoda: 
+
+Lancet: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext
+
+Qoda: https://lab.qoda.com.br
 
 Thank you for using the project, I hope you like it ❤
