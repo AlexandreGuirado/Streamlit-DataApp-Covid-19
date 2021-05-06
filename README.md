@@ -17,7 +17,7 @@ https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e
 Visual Dashboard (mobile):
 https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
 
-This dataset can only be performed thanks to Lancet Article and couse of Qoda: 
+This dataset can only be performed thanks to Lancet Article and course of Qoda: 
 
 Lancet: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30120-1/fulltext
 
